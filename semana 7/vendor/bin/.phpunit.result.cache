@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\CalculadoraTest::testSumar":4,"Tests\\CalculadoraTest::testRestar":4},"times":{"Tests\\CalculadoraTest::testSumar":0.002,"Tests\\CalculadoraTest::testRestar":0}}
